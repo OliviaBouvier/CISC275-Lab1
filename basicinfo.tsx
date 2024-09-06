@@ -7,6 +7,6 @@ const yourName : String = "Olivia Bouvier";
 let yourPronouns : String = "She/Her";
 const yourMajor : String = "Computer Science";
 let classification : String = "junior";
-let oneExcite : String = "Learning how to make pretty websites :)";
+let oneExcite : String = "Learning how to make larger-scale projects";
 let anyConcerns : String = "Not knowing anyone in the class";
 let funFact : String = "I play marimba in the University of Delaware Marching Band!";
